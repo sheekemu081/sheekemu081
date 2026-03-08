@@ -1,0 +1,46 @@
+# My First Markdown Page
+
+Welcome to my **Markdown** document!  
+This is a simple example showing how to format text.
+
+---
+
+## ✨ Features
+
+- Easy to write
+- Easy to read
+- Converts to HTML
+
+---
+
+## 📚 Examples
+
+### Bold and Italic
+- **Bold text**
+- *Italic text*
+- ***Bold and italic***
+
+### Lists
+- Item 1
+- Item 2
+- Item 3
+
+### Numbered List
+1. First
+2. Second
+3. Third
+
+### Links
+[Visit GitHub](https://github.com)
+
+### Images
+![Sample Image](https://via.placeholder.com/150)
+
+### Code
+Inline code: `console.log("Hello World");`
+
+Block code:
+```javascript
+function greet() {
+  console.log("Hello Markdown!");
+}
